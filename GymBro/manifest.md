@@ -1,0 +1,1 @@
+purpose of this app is to provide a way to schedule workouts with your gym partner(s)
